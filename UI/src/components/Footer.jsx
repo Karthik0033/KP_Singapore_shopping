@@ -10,7 +10,7 @@ const Footer = () => {
                     {/* Brand Info */}
                     <div className="space-y-4">
                         <h2 className="text-2xl font-bold text-white">
-                            KP<span className="text-pink-500">Shopping</span>
+                            KH<span className="text-pink-500">Shopping</span>
                         </h2>
                         <p className="text-sm leading-relaxed">
                             Modern electronics e-commerce platform providing the best gadgets at affordable prices. Experience the future of shopping.
@@ -58,7 +58,7 @@ const Footer = () => {
                         </div>
                         <div className="flex items-center space-x-3 text-sm">
                             <Mail size={18} className="text-pink-500 flex-shrink-0" />
-                            <span>support@kpshopping.com</span>
+                            <span>support@khshopping.com</span>
                         </div>
                     </div>
                 </div>

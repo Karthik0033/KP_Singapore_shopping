@@ -34,7 +34,7 @@ const Navbar = ({ onSearch }) => {
                     {/* Logo */}
                     <div className="flex-shrink-0 flex items-center">
                         <Link to="/" className="text-2xl font-bold text-pink-600 tracking-tight">
-                            KP<span className="text-gray-800">Shopping</span>
+                            KH<span className="text-gray-800">Shopping</span>
                         </Link>
                     </div>
 
