@@ -19,7 +19,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename="/KP_Singapore_shopping/">
       <AuthProvider>
         <CartProvider>
           <div className="flex flex-col min-h-screen font-sans selection:bg-pink-100 selection:text-pink-600">
