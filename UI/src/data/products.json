@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+        "price": 34800,
+        "category": "Audio",
+        "image": "https://images.unsplash.com/photo-1618366712214-8c0797305958?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "Industry leading noise canceling with two processors controlling 8 microphones.",
+        "rating": 4.8,
+        "reviews": 1240
+    },
+    {
+        "id": 2,
+        "name": "Apple MacBook Air M2",
+        "price": 114900,
+        "category": "Laptops",
+        "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "Supercharged by M2, the MacBook Air is incredibly thin and fast.",
+        "rating": 4.9,
+        "reviews": 850
+    },
+    {
+        "id": 3,
+        "name": "Samsung Galaxy S23 Ultra",
+        "price": 124999,
+        "category": "Phones",
+        "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "Capture the night with epic low-light photography. S Pen included.",
+        "rating": 4.7,
+        "reviews": 920
+    },
+    {
+        "id": 4,
+        "name": "Logitech MX Master 3S Wireless Mouse",
+        "price": 10995,
+        "category": "Accessories",
+        "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "An icon remastered for speed and precision. Quiet clicks.",
+        "rating": 4.8,
+        "reviews": 450
+    },
+    {
+        "id": 5,
+        "name": "Dell UltraSharp 27 4K USB-C Hub Monitor",
+        "price": 54999,
+        "category": "Monitors",
+        "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "Brilliant visuals with 4K resolution and USB-C connectivity.",
+        "rating": 4.6,
+        "reviews": 310
+    },
+    {
+        "id": 6,
+        "name": "Keychron K2 Mechanical Keyboard",
+        "price": 8999,
+        "category": "Accessories",
+        "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "Wireless mechanical keyboard with Gateron switches and RGB backlight.",
+        "rating": 4.5,
+        "reviews": 670
+    },
+    {
+        "id": 7,
+        "name": "Apple Watch Series 8",
+        "price": 45900,
+        "category": "Wearables",
+        "image": "https://images.unsplash.com/photo-1544117518-30dd5f2f309d?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "Advanced health sensors and apps for heart rate, blood oxygen, and more.",
+        "rating": 4.8,
+        "reviews": 540
+    },
+    {
+        "id": 8,
+        "name": "Bose SoundLink Revolve+ II",
+        "price": 24500,
+        "category": "Audio",
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7ae?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "True 360-degree sound for consistent, uniform coverage.",
+        "rating": 4.7,
+        "reviews": 290
+    },
+    {
+        "id": 9,
+        "name": "iPhone 14 Pro",
+        "price": 129900,
+        "category": "Phones",
+        "image": "https://images.unsplash.com/photo-1663499482523-1c0c1bae4ce1?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "A magical new way to interact with iPhone. Groundbreaking safety features.",
+        "rating": 4.9,
+        "reviews": 1100
+    },
+    {
+        "id": 10,
+        "name": "Sony PlayStation 5",
+        "price": 49990,
+        "category": "Accessories",
+        "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "Lightning fast loading with an ultra-high speed SSD and deeper immersion.",
+        "rating": 4.8,
+        "reviews": 2500
+    },
+    {
+        "id": 11,
+        "name": "HP Spectre x360",
+        "price": 139990,
+        "category": "Laptops",
+        "image": "https://images.unsplash.com/photo-1544006659-f0b21f04cb1d?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "Beautiful craftsmanship meets performance with the latest Intel Evo platform.",
+        "rating": 4.7,
+        "reviews": 420
+    },
+    {
+        "id": 12,
+        "name": "ASUS ROG Zephyrus G14",
+        "price": 149990,
+        "category": "Laptops",
+        "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "The world's most powerful 14-inch gaming laptop. Slim and portable.",
+        "rating": 4.8,
+        "reviews": 560
+    },
+    {
+        "id": 13,
+        "name": "Nintendo Switch OLED",
+        "price": 32900,
+        "category": "Accessories",
+        "image": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "Vibrant 7-inch OLED screen, a wide adjustable stand, and a wired LAN port.",
+        "rating": 4.6,
+        "reviews": 1500
+    },
+    {
+        "id": 14,
+        "name": "Samsung Odyssey G9",
+        "price": 145000,
+        "category": "Monitors",
+        "image": "https://images.unsplash.com/photo-1551645120-d70bfe84c826?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "49-inch curved gaming monitor with 240Hz refresh rate and 1ms response time.",
+        "rating": 4.5,
+        "reviews": 210
+    },
+    {
+        "id": 15,
+        "name": "Sennheiser Momentum 4",
+        "price": 34990,
+        "category": "Audio",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "Exceptional sound quality with advanced Adaptive Noise Cancellation.",
+        "rating": 4.7,
+        "reviews": 480
+    },
+    {
+        "id": 16,
+        "name": "Garmin Fenix 7 Sapphire Solar",
+        "price": 84990,
+        "category": "Wearables",
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "Solar powered multisport GPS watch with scratch-resistant Power Sapphire lens.",
+        "rating": 4.8,
+        "reviews": 320
+    },
+    {
+        "id": 17,
+        "name": "Microsoft Surface Pro 9",
+        "price": 105990,
+        "category": "Laptops",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "The power of a laptop, the flexibility of a tablet. Now with 5G connectivity.",
+        "rating": 4.6,
+        "reviews": 280
+    },
+    {
+        "id": 18,
+        "name": "JBL Charge 5",
+        "price": 14999,
+        "category": "Audio",
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7ae?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "Portable Waterproof Speaker with Powerbank. Bold JBL Original Pro Sound.",
+        "rating": 4.7,
+        "reviews": 1800
+    },
+    {
+        "id": 19,
+        "name": "iPad Pro 12.9 M2",
+        "price": 112900,
+        "category": "Laptops",
+        "image": "https://images.unsplash.com/photo-1544244015-0cd4b3ffc6b0?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "Astonishing performance. Incredibly advanced displays. Superfast wireless.",
+        "rating": 4.9,
+        "reviews": 740
+    },
+    {
+        "id": 20,
+        "name": "Google Pixel 7 Pro",
+        "price": 84999,
+        "category": "Phones",
+        "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&q=80&w=300&h=300",
+        "description": "The most powerful Pixel yet. Google's safest and most private phone.",
+        "rating": 4.7,
+        "reviews": 630
+    }
+]
